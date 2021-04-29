@@ -1,0 +1,4 @@
+include ':CallbackSample'
+include ':AsyncTaskSample'
+include ':app'
+rootProject.name = "MemoryLeakSample"
